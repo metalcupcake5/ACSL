@@ -17,3 +17,4 @@ $ npm install
 ```shell
 $ node acsl.js
 ```
+The output will be logged to the console.
